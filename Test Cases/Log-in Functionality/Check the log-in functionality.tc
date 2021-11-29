@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check the happy scenarion for the login feature</description>
+   <name>Check the log-in functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83fb81ce-23cd-4bb5-8da9-16e6a6176244</testCaseGuid>
+</TestCaseEntity>
